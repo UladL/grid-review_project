@@ -2,4 +2,4 @@
 
 # This is my project made using grid structure in css!
 Its just a small grid table that shows customer reviews!
-If you would like to try it out [click here](www.google.com)
+If you would like to try it out [click here](https://uladl.github.io/grid-review_project/)!
